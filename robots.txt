@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-6p7aj2.rupiahtoto77aud.lat/sitemap.xml
